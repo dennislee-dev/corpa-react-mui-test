@@ -1,0 +1,68 @@
+const mockupData = [
+  {
+    title: "Amazone product 2 reviews",
+    requests: 13274,
+    fileSize: "123MB",
+    dataVolume: "3GB",
+    enabled: true,
+    description: "Amazon Product 2 Reviews - Acer Aspire 5 Slim Laptop - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 3 reviews",
+    requests: 65475,
+    fileSize: "183MB",
+    dataVolume: "3.7GB",
+    enabled: false,
+    description: "Amazon Product 3 Reviews - Roku Streaming Stick - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 4 reviews",
+    requests: 43543,
+    fileSize: "145MB",
+    dataVolume: "3GB",
+    enabled: true,
+    description: "Amazon Product 4 Reviews - Rubbermaid Commercial Oven - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 5 reviews",
+    requests: 65876,
+    fileSize: "90MB",
+    dataVolume: "3GB",
+    enabled: true,
+    description: "Amazon Product 5 Reviews - Acer Aspire 5 Slim Laptop - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 6 reviews",
+    requests: 76545,
+    fileSize: "823MB",
+    dataVolume: "3GB",
+    enabled: false,
+    description: "Amazon Product 6 Reviews - Roku Streaming Stick - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 7 reviews",
+    requests: 654,
+    fileSize: "23MB",
+    dataVolume: "3GB",
+    enabled: true,
+    description: "Amazon Product 7 Reviews - Acer Aspire 5 Slim Laptop - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 8 reviews",
+    requests: 7656,
+    fileSize: "176MB",
+    dataVolume: "3GB",
+    enabled: true,
+    description: "Amazon Product 8 Reviews - Rubbermaid Commercial Oven - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+  {
+    title: "Amazone product 9 reviews",
+    requests: 8776,
+    fileSize: "12MB",
+    dataVolume: "3GB",
+    enabled: false,
+    description: "Amazon Product 9 Reviews - Roku Streaming Stick - https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19/DP/B07RF1XD36/",
+  },
+];
+
+export default mockupData;
